@@ -1,1 +1,1 @@
-# I command that login should happend
+# I command that login should happen
